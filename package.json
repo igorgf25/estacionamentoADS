@@ -1,6 +1,7 @@
 {
   "name": "estacionamento",
   "version": "1.0.0",
+  "type": "module",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -13,6 +14,7 @@
   "author": "igor",
   "license": "MIT",
   "dependencies": {
+    "dotenv": "^10.0.0",
     "mssql": "^7.2.1"
   }
 }
